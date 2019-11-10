@@ -12,6 +12,17 @@
 
 [PDF version](postgresql-acid-2colours.pdf)
 
+## Examples of t-shirts
+
+### 4 colours
+
+![ACID t-shirt - 4 colours](postgresql-acid-4colours-tshirt.png "PostgreSQL Rock Solid Database T-Shirt - 4 colours")
+
+### 2 colours
+
+![ACID t-shirt - 2 colours](postgresql-acid-2colours-tshirt.png "PostgreSQL Rock Solid Database T-Shirt - 2 colours")
+
+
 ## LICENCE
 
 Copyright (c) 2015 Gabriele Bartolini <gabriele.bartolini@2ndquadrant.it>
